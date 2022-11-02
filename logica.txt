@@ -1,0 +1,14 @@
+
+
+Faça um progama que receba o nome de um aluno e 3 notas referentes as avaliações feitas por este.
+O progama deve continuar recebendo informaçoes até que o nome do aluno esteja em branco.
+Ao final, o progama deve mostras um relatorio de cada aluno contendo:
+a) O nome do alunno; 
+
+b) As notas do alunno;
+
+c) A média do aluno;
+
+
+
+
